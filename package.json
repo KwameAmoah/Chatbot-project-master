@@ -1,14 +1,14 @@
 {
   "name": "restaurant-chat-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "used to make orders at a restorant.",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kwame Amoah",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwameAmoah/Chatbot-project-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KwameAmoah/Chatbot-project-master/issues"
+  },
+  "homepage": "https://github.com/KwameAmoah/Chatbot-project-master#readme"
 }
